@@ -1,0 +1,595 @@
+, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  5  Sequence mean error:  tensor(2.2865, device='cuda:0')  Sequence final error:  tensor(6.1294, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  1  Sequence mean error:  tensor(2.1420, device='cuda:0')  Sequence final error:  tensor(4.5361, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  2  Sequence mean error:  tensor(0.5537, device='cuda:0')  Sequence final error:  tensor(0.5830, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  3  Sequence mean error:  tensor(0.6482, device='cuda:0')  Sequence final error:  tensor(1.2201, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  4  Sequence mean error:  tensor(0.5529, device='cuda:0')  Sequence final error:  tensor(1.1450, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  5  Sequence mean error:  tensor(0.5339, device='cuda:0')  Sequence final error:  tensor(0.9182, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  1  Sequence mean error:  tensor(0.3188, device='cuda:0')  Sequence final error:  tensor(0.6576, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  2  Sequence mean error:  tensor(0.3610, device='cuda:0')  Sequence final error:  tensor(0.7742, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  3  Sequence mean error:  tensor(0.3448, device='cuda:0')  Sequence final error:  tensor(0.6155, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  4  Sequence mean error:  tensor(0.4035, device='cuda:0')  Sequence final error:  tensor(0.6169, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  5  Sequence mean error:  tensor(0.5722, device='cuda:0')  Sequence final error:  tensor(0.9986, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  1  Sequence mean error:  tensor(0.5728, device='cuda:0')  Sequence final error:  tensor(1.1745, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  2  Sequence mean error:  tensor(0.5393, device='cuda:0')  Sequence final error:  tensor(0.8664, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  3  Sequence mean error:  tensor(0.5047, device='cuda:0')  Sequence final error:  tensor(0.4167, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  4  Sequence mean error:  tensor(0.5682, device='cuda:0')  Sequence final error:  tensor(0.9815, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  5  Sequence mean error:  tensor(1.2712, device='cuda:0')  Sequence final error:  tensor(3.9738, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  1  Sequence mean error:  tensor(1.5487, device='cuda:0')  Sequence final error:  tensor(5.2437, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  2  Sequence mean error:  tensor(1.4207, device='cuda:0')  Sequence final error:  tensor(3.7967, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  3  Sequence mean error:  tensor(0.3286, device='cuda:0')  Sequence final error:  tensor(0.6916, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  4  Sequence mean error:  tensor(0.4330, device='cuda:0')  Sequence final error:  tensor(0.6870, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  5  Sequence mean error:  tensor(0.3772, device='cuda:0')  Sequence final error:  tensor(0.5851, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  1  Sequence mean error:  tensor(0.6452, device='cuda:0')  Sequence final error:  tensor(1.3732, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  2  Sequence mean error:  tensor(0.6226, device='cuda:0')  Sequence final error:  tensor(1.1392, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  3  Sequence mean error:  tensor(0.6918, device='cuda:0')  Sequence final error:  tensor(1.2523, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  4  Sequence mean error:  tensor(0.6447, device='cuda:0')  Sequence final error:  tensor(1.8575, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  5  Sequence mean error:  tensor(0.4696, device='cuda:0')  Sequence final error:  tensor(0.3897, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  1  Sequence mean error:  tensor(0.4322, device='cuda:0')  Sequence final error:  tensor(0.1982, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  2  Sequence mean error:  tensor(0.4502, device='cuda:0')  Sequence final error:  tensor(0.2579, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  3  Sequence mean error:  tensor(2.6814, device='cuda:0')  Sequence final error:  tensor(6.1153, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  4  Sequence mean error:  tensor(2.3724, device='cuda:0')  Sequence final error:  tensor(4.4595, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  5  Sequence mean error:  tensor(0.9145, device='cuda:0')  Sequence final error:  tensor(1.7423, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  1  Sequence mean error:  tensor(0.8485, device='cuda:0')  Sequence final error:  tensor(1.6298, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  2  Sequence mean error:  tensor(0.7702, device='cuda:0')  Sequence final error:  tensor(1.5437, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  3  Sequence mean error:  tensor(0.9869, device='cuda:0')  Sequence final error:  tensor(1.9128, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  4  Sequence mean error:  tensor(0.9420, device='cuda:0')  Sequence final error:  tensor(1.9041, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  5  Sequence mean error:  tensor(0.9840, device='cuda:0')  Sequence final error:  tensor(1.6123, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  1  Sequence mean error:  tensor(1.0134, device='cuda:0')  Sequence final error:  tensor(1.6528, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  2  Sequence mean error:  tensor(1.0479, device='cuda:0')  Sequence final error:  tensor(1.6067, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  3  Sequence mean error:  tensor(1.0749, device='cuda:0')  Sequence final error:  tensor(2.0041, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  4  Sequence mean error:  tensor(1.1489, device='cuda:0')  Sequence final error:  tensor(1.9852, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  5  Sequence mean error:  tensor(1.0243, device='cuda:0')  Sequence final error:  tensor(1.8354, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  1  Sequence mean error:  tensor(1.0105, device='cuda:0')  Sequence final error:  tensor(1.2779, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  2  Sequence mean error:  tensor(0.9756, device='cuda:0')  Sequence final error:  tensor(1.8296, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  3  Sequence mean error:  tensor(0.9740, device='cuda:0')  Sequence final error:  tensor(2.0044, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  4  Sequence mean error:  tensor(0.8910, device='cuda:0')  Sequence final error:  tensor(0.9197, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  5  Sequence mean error:  tensor(0.8336, device='cuda:0')  Sequence final error:  tensor(1.3545, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  1  Sequence mean error:  tensor(0.8739, device='cuda:0')  Sequence final error:  tensor(0.9903, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  2  Sequence mean error:  tensor(0.7571, device='cuda:0')  Sequence final error:  tensor(1.0167, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  3  Sequence mean error:  tensor(0.8136, device='cuda:0')  Sequence final error:  tensor(2.1040, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  4  Sequence mean error:  tensor(0.3398, device='cuda:0')  Sequence final error:  tensor(0.3370, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  5  Sequence mean error:  tensor(0.5954, device='cuda:0')  Sequence final error:  tensor(1.2581, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  1  Sequence mean error:  tensor(0.7672, device='cuda:0')  Sequence final error:  tensor(1.7700, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  2  Sequence mean error:  tensor(0.7894, device='cuda:0')  Sequence final error:  tensor(0.7580, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  3  Sequence mean error:  tensor(0.7664, device='cuda:0')  Sequence final error:  tensor(0.8123, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  4  Sequence mean error:  tensor(0.7573, device='cuda:0')  Sequence final error:  tensor(1.0879, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  5  Sequence mean error:  tensor(0.8178, device='cuda:0')  Sequence final error:  tensor(1.7209, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  1  Sequence mean error:  tensor(0.9508, device='cuda:0')  Sequence final error:  tensor(1.7560, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  2  Sequence mean error:  tensor(0.8499, device='cuda:0')  Sequence final error:  tensor(1.6726, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  3  Sequence mean error:  tensor(0.7901, device='cuda:0')  Sequence final error:  tensor(1.5036, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  4  Sequence mean error:  tensor(0.7196, device='cuda:0')  Sequence final error:  tensor(1.3090, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  5  Sequence mean error:  tensor(0.6730, device='cuda:0')  Sequence final error:  tensor(0.7312, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  1  Sequence mean error:  tensor(1.5078, device='cuda:0')  Sequence final error:  tensor(1.6959, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  2  Sequence mean error:  tensor(1.4469, device='cuda:0')  Sequence final error:  tensor(2.8524, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  3  Sequence mean error:  tensor(1.1385, device='cuda:0')  Sequence final error:  tensor(2.3523, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  4  Sequence mean error:  tensor(1.4860, device='cuda:0')  Sequence final error:  tensor(2.9113, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  5  Sequence mean error:  tensor(1.6351, device='cuda:0')  Sequence final error:  tensor(3.2044, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  1  Sequence mean error:  tensor(1.9478, device='cuda:0')  Sequence final error:  tensor(4.0307, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  2  Sequence mean error:  tensor(2.4829, device='cuda:0')  Sequence final error:  tensor(5.5866, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  3  Sequence mean error:  tensor(0.9463, device='cuda:0')  Sequence final error:  tensor(1.6681, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  4  Sequence mean error:  tensor(0.8961, device='cuda:0')  Sequence final error:  tensor(2.5563, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  5  Sequence mean error:  tensor(1.9188, device='cuda:0')  Sequence final error:  tensor(4.3769, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  1  Sequence mean error:  tensor(1.9810, device='cuda:0')  Sequence final error:  tensor(4.3532, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  2  Sequence mean error:  tensor(1.9062, device='cuda:0')  Sequence final error:  tensor(4.6060, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  3  Sequence mean error:  tensor(0.7278, device='cuda:0')  Sequence final error:  tensor(1.2204, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  4  Sequence mean error:  tensor(0.7153, device='cuda:0')  Sequence final error:  tensor(0.7491, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  5  Sequence mean error:  tensor(0.3434, device='cuda:0')  Sequence final error:  tensor(0.3903, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  1  Sequence mean error:  tensor(0.3736, device='cuda:0')  Sequence final error:  tensor(0.3697, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  2  Sequence mean error:  tensor(0.4422, device='cuda:0')  Sequence final error:  tensor(0.4087, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  3  Sequence mean error:  tensor(2.2882, device='cuda:0')  Sequence final error:  tensor(4.5880, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  4  Sequence mean error:  tensor(2.5078, device='cuda:0')  Sequence final error:  tensor(6.6617, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  5  Sequence mean error:  tensor(0.5768, device='cuda:0')  Sequence final error:  tensor(1.4877, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  1  Sequence mean error:  tensor(0.7810, device='cuda:0')  Sequence final error:  tensor(1.0426, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  2  Sequence mean error:  tensor(0.7120, device='cuda:0')  Sequence final error:  tensor(0.6984, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  3  Sequence mean error:  tensor(0.5666, device='cuda:0')  Sequence final error:  tensor(0.4729, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  4  Sequence mean error:  tensor(0.4461, device='cuda:0')  Sequence final error:  tensor(0.8168, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  5  Sequence mean error:  tensor(0.4969, device='cuda:0')  Sequence final error:  tensor(0.8294, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  1  Sequence mean error:  tensor(0.4978, device='cuda:0')  Sequence final error:  tensor(0.8289, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  2  Sequence mean error:  tensor(0.4701, device='cuda:0')  Sequence final error:  tensor(0.8238, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  3  Sequence mean error:  tensor(0.4469, device='cuda:0')  Sequence final error:  tensor(0.7779, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  4  Sequence mean error:  tensor(1.0152, device='cuda:0')  Sequence final error:  tensor(3.7481, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  5  Sequence mean error:  tensor(0.9324, device='cuda:0')  Sequence final error:  tensor(3.0004, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  1  Sequence mean error:  tensor(0.8283, device='cuda:0')  Sequence final error:  tensor(1.2708, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  2  Sequence mean error:  tensor(1.3133, device='cuda:0')  Sequence final error:  tensor(3.1028, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  3  Sequence mean error:  tensor(1.1938, device='cuda:0')  Sequence final error:  tensor(2.8958, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  4  Sequence mean error:  tensor(1.7136, device='cuda:0')  Sequence final error:  tensor(4.8253, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  5  Sequence mean error:  tensor(2.1301, device='cuda:0')  Sequence final error:  tensor(6.6413, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  1  Sequence mean error:  tensor(0.3304, device='cuda:0')  Sequence final error:  tensor(0.4546, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  2  Sequence mean error:  tensor(0.7265, device='cuda:0')  Sequence final error:  tensor(1.3515, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  3  Sequence mean error:  tensor(0.7689, device='cuda:0')  Sequence final error:  tensor(1.4427, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  4  Sequence mean error:  tensor(0.7176, device='cuda:0')  Sequence final error:  tensor(0.9126, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  5  Sequence mean error:  tensor(0.7788, device='cuda:0')  Sequence final error:  tensor(1.3785, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  1  Sequence mean error:  tensor(0.8058, device='cuda:0')  Sequence final error:  tensor(1.4135, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  2  Sequence mean error:  tensor(0.8029, device='cuda:0')  Sequence final error:  tensor(1.1183, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  3  Sequence mean error:  tensor(0.8135, device='cuda:0')  Sequence final error:  tensor(1.4131, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  4  Sequence mean error:  tensor(0.8337, device='cuda:0')  Sequence final error:  tensor(1.3183, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  5  Sequence mean error:  tensor(0.5752, device='cuda:0')  Sequence final error:  tensor(0.7756, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  1  Sequence mean error:  tensor(0.5738, device='cuda:0')  Sequence final error:  tensor(0.7003, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  2  Sequence mean error:  tensor(0.6531, device='cuda:0')  Sequence final error:  tensor(1.2880, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  3  Sequence mean error:  tensor(0.6584, device='cuda:0')  Sequence final error:  tensor(1.2900, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  4  Sequence mean error:  tensor(0.6695, device='cuda:0')  Sequence final error:  tensor(1.3130, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  5  Sequence mean error:  tensor(0.6733, device='cuda:0')  Sequence final error:  tensor(1.3654, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  1  Sequence mean error:  tensor(0.6367, device='cuda:0')  Sequence final error:  tensor(0.6242, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  2  Sequence mean error:  tensor(0.5240, device='cuda:0')  Sequence final error:  tensor(0.7492, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  3  Sequence mean error:  tensor(0.6533, device='cuda:0')  Sequence final error:  tensor(1.1699, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  4  Sequence mean error:  tensor(0.5784, device='cuda:0')  Sequence final error:  tensor(0.8342, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  5  Sequence mean error:  tensor(0.5602, device='cuda:0')  Sequence final error:  tensor(0.4771, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  1  Sequence mean error:  tensor(0.5429, device='cuda:0')  Sequence final error:  tensor(0.7961, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  2  Sequence mean error:  tensor(0.5785, device='cuda:0')  Sequence final error:  tensor(0.8496, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  3  Sequence mean error:  tensor(0.5085, device='cuda:0')  Sequence final error:  tensor(0.8146, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  4  Sequence mean error:  tensor(0.6513, device='cuda:0')  Sequence final error:  tensor(1.2993, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  5  Sequence mean error:  tensor(0.6520, device='cuda:0')  Sequence final error:  tensor(1.1885, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  1  Sequence mean error:  tensor(0.7303, device='cuda:0')  Sequence final error:  tensor(1.6861, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  2  Sequence mean error:  tensor(0.6784, device='cuda:0')  Sequence final error:  tensor(1.5051, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  3  Sequence mean error:  tensor(0.5725, device='cuda:0')  Sequence final error:  tensor(0.4897, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  4  Sequence mean error:  tensor(0.5169, device='cuda:0')  Sequence final error:  tensor(0.3519, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  5  Sequence mean error:  tensor(0.5484, device='cuda:0')  Sequence final error:  tensor(0.9053, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  1  Sequence mean error:  tensor(0.6636, device='cuda:0')  Sequence final error:  tensor(1.7457, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  2  Sequence mean error:  tensor(0.5946, device='cuda:0')  Sequence final error:  tensor(0.7053, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  3  Sequence mean error:  tensor(1.4979, device='cuda:0')  Sequence final error:  tensor(2.4224, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  4  Sequence mean error:  tensor(1.9899, device='cuda:0')  Sequence final error:  tensor(4.7573, device='cuda:0')  time:  0.29308509826660156
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  5  Sequence mean error:  tensor(2.0176, device='cuda:0')  Sequence final error:  tensor(3.7791, device='cuda:0')  time:  0.29308509826660156
+(epoch 27), valid_loss = 2.747, valid_mean_err = 0.860, valid_final_err = 1.683
+Best epoch 14 Best validation loss 2.1276671483759477 Best error epoch 16 Best error tensor(1.2527, device='cuda:0')
+Saving model
+****************Training epoch beginning******************
+--------------------------------------------------------------------------
+Dataset type switching: validation -----> training
+Loading train or test dataset:  ./data/train/trajectories_train.cpkl
+Sequence size(frame) ------> 20
+One batch size (frame)--->- 100
+Training data from training dataset(name, # frame, #sequence)-->  biwi_hotel.txt : 2900 : 145
+Validation data from training dataset(name, # frame, #sequence)-->  biwi_hotel.txt : 0 : 0
+Training data from training dataset(name, # frame, #sequence)-->  biwi_hotel_0.txt : 2900 : 145
+Validation data from training dataset(name, # frame, #sequence)-->  biwi_hotel_0.txt : 0 : 0
+Total number of training batches: 58
+Total number of validation batches: 0
+1624/1740 (epoch 28), train_loss = -3.216, time/batch = 0.250
+1625/1740 (epoch 28), train_loss = -3.831, time/batch = 0.254
+1626/1740 (epoch 28), train_loss = -2.078, time/batch = 0.231
+1627/1740 (epoch 28), train_loss = -1.777, time/batch = 0.262
+1628/1740 (epoch 28), train_loss = -2.735, time/batch = 0.314
+1629/1740 (epoch 28), train_loss = -1.606, time/batch = 0.372
+1630/1740 (epoch 28), train_loss = -1.698, time/batch = 0.300
+1631/1740 (epoch 28), train_loss = -2.283, time/batch = 0.385
+1632/1740 (epoch 28), train_loss = -0.813, time/batch = 0.309
+1633/1740 (epoch 28), train_loss = -1.229, time/batch = 0.460
+1634/1740 (epoch 28), train_loss = -1.129, time/batch = 0.607
+1635/1740 (epoch 28), train_loss = -1.123, time/batch = 0.571
+1636/1740 (epoch 28), train_loss = -1.943, time/batch = 0.425
+1637/1740 (epoch 28), train_loss = -1.072, time/batch = 0.326
+1638/1740 (epoch 28), train_loss = -1.236, time/batch = 0.323
+1639/1740 (epoch 28), train_loss = -0.167, time/batch = 0.268
+1640/1740 (epoch 28), train_loss = -1.106, time/batch = 0.244
+1641/1740 (epoch 28), train_loss = -1.228, time/batch = 0.281
+1642/1740 (epoch 28), train_loss = -1.237, time/batch = 0.289
+1643/1740 (epoch 28), train_loss = -2.418, time/batch = 0.460
+1644/1740 (epoch 28), train_loss = -2.763, time/batch = 0.451
+1645/1740 (epoch 28), train_loss = 0.720, time/batch = 0.278
+1646/1740 (epoch 28), train_loss = -1.931, time/batch = 0.392
+1647/1740 (epoch 28), train_loss = -1.975, time/batch = 0.554
+1648/1740 (epoch 28), train_loss = -2.075, time/batch = 0.593
+1649/1740 (epoch 28), train_loss = -2.137, time/batch = 0.601
+1650/1740 (epoch 28), train_loss = -2.170, time/batch = 0.508
+1651/1740 (epoch 28), train_loss = -1.965, time/batch = 0.471
+1652/1740 (epoch 28), train_loss = -0.328, time/batch = 0.282
+*******************
+now processing: biwi_hotel_0.txt
+1653/1740 (epoch 28), train_loss = -2.093, time/batch = 0.244
+1654/1740 (epoch 28), train_loss = -2.625, time/batch = 0.257
+1655/1740 (epoch 28), train_loss = -1.201, time/batch = 0.214
+1656/1740 (epoch 28), train_loss = -1.174, time/batch = 0.257
+1657/1740 (epoch 28), train_loss = -1.468, time/batch = 0.310
+1658/1740 (epoch 28), train_loss = -1.132, time/batch = 0.358
+1659/1740 (epoch 28), train_loss = -0.781, time/batch = 0.290
+1660/1740 (epoch 28), train_loss = -1.498, time/batch = 0.382
+1661/1740 (epoch 28), train_loss = -0.413, time/batch = 0.308
+1662/1740 (epoch 28), train_loss = -0.807, time/batch = 0.474
+1663/1740 (epoch 28), train_loss = -0.649, time/batch = 0.608
+1664/1740 (epoch 28), train_loss = -0.805, time/batch = 0.533
+1665/1740 (epoch 28), train_loss = -1.388, time/batch = 0.410
+1666/1740 (epoch 28), train_loss = -0.525, time/batch = 0.332
+1667/1740 (epoch 28), train_loss = -0.709, time/batch = 0.324
+1668/1740 (epoch 28), train_loss = 0.104, time/batch = 0.271
+1669/1740 (epoch 28), train_loss = -0.469, time/batch = 0.241
+1670/1740 (epoch 28), train_loss = -0.441, time/batch = 0.277
+1671/1740 (epoch 28), train_loss = -0.615, time/batch = 0.282
+1672/1740 (epoch 28), train_loss = -1.834, time/batch = 0.461
+1673/1740 (epoch 28), train_loss = -1.722, time/batch = 0.450
+1674/1740 (epoch 28), train_loss = 0.777, time/batch = 0.274
+1675/1740 (epoch 28), train_loss = -1.142, time/batch = 0.396
+1676/1740 (epoch 28), train_loss = -1.307, time/batch = 0.548
+1677/1740 (epoch 28), train_loss = -1.492, time/batch = 0.582
+1678/1740 (epoch 28), train_loss = -1.642, time/batch = 0.578
+1679/1740 (epoch 28), train_loss = -1.671, time/batch = 0.509
+1680/1740 (epoch 28), train_loss = -1.560, time/batch = 0.466
+1681/1740 (epoch 28), train_loss = -0.099, time/batch = 0.285
+--------------------------------------------------------------------------
+Dataset type switching: training ----> validation
+Loading validaton datasets:  ./data/validation/trajectories_val.cpkl
+Sequence size(frame) ------> 20
+One batch size (frame)--->- 100
+Validation data from validation dataset(name, # frame, #sequence)-->  biwi_hotel_4.txt : 2900 : 145
+Total number of validation batches: 29
+****************Validation with dataset epoch beginning******************
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  1  Sequence mean error:  tensor(0.1747, device='cuda:0')  Sequence final error:  tensor(0.2224, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  2  Sequence mean error:  tensor(0.1586, device='cuda:0')  Sequence final error:  tensor(0.1534, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  3  Sequence mean error:  tensor(0.1625, device='cuda:0')  Sequence final error:  tensor(0.1943, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  4  Sequence mean error:  tensor(0.5129, device='cuda:0')  Sequence final error:  tensor(1.0683, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  5  Sequence mean error:  tensor(0.5467, device='cuda:0')  Sequence final error:  tensor(0.8946, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  1  Sequence mean error:  tensor(0.9601, device='cuda:0')  Sequence final error:  tensor(1.7121, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  2  Sequence mean error:  tensor(0.2239, device='cuda:0')  Sequence final error:  tensor(0.0882, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  3  Sequence mean error:  tensor(0.2093, device='cuda:0')  Sequence final error:  tensor(0.1103, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  4  Sequence mean error:  tensor(0.2083, device='cuda:0')  Sequence final error:  tensor(0.1128, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  5  Sequence mean error:  tensor(0.1925, device='cuda:0')  Sequence final error:  tensor(0.1078, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  1  Sequence mean error:  tensor(0.1511, device='cuda:0')  Sequence final error:  tensor(0.0940, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  2  Sequence mean error:  tensor(0.1491, device='cuda:0')  Sequence final error:  tensor(0.2620, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  3  Sequence mean error:  tensor(0.2171, device='cuda:0')  Sequence final error:  tensor(0.2556, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  4  Sequence mean error:  tensor(2.0880, device='cuda:0')  Sequence final error:  tensor(6.1879, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  5  Sequence mean error:  tensor(2.0782, device='cuda:0')  Sequence final error:  tensor(5.9456, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  1  Sequence mean error:  tensor(2.1092, device='cuda:0')  Sequence final error:  tensor(4.8802, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  2  Sequence mean error:  tensor(0.6059, device='cuda:0')  Sequence final error:  tensor(1.3675, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  3  Sequence mean error:  tensor(0.6166, device='cuda:0')  Sequence final error:  tensor(1.0774, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  4  Sequence mean error:  tensor(0.6231, device='cuda:0')  Sequence final error:  tensor(0.9027, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  5  Sequence mean error:  tensor(0.5280, device='cuda:0')  Sequence final error:  tensor(1.0356, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  1  Sequence mean error:  tensor(0.3463, device='cuda:0')  Sequence final error:  tensor(0.6365, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  2  Sequence mean error:  tensor(0.3281, device='cuda:0')  Sequence final error:  tensor(0.5508, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  3  Sequence mean error:  tensor(0.3108, device='cuda:0')  Sequence final error:  tensor(0.6367, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  4  Sequence mean error:  tensor(0.3399, device='cuda:0')  Sequence final error:  tensor(0.5695, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  5  Sequence mean error:  tensor(0.5369, device='cuda:0')  Sequence final error:  tensor(1.5535, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  1  Sequence mean error:  tensor(0.5432, device='cuda:0')  Sequence final error:  tensor(0.8433, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  2  Sequence mean error:  tensor(0.5880, device='cuda:0')  Sequence final error:  tensor(0.9281, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  3  Sequence mean error:  tensor(0.5631, device='cuda:0')  Sequence final error:  tensor(1.1420, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  4  Sequence mean error:  tensor(0.5322, device='cuda:0')  Sequence final error:  tensor(0.8175, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  5  Sequence mean error:  tensor(1.5126, device='cuda:0')  Sequence final error:  tensor(4.5026, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  1  Sequence mean error:  tensor(1.3506, device='cuda:0')  Sequence final error:  tensor(4.0223, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  2  Sequence mean error:  tensor(1.5709, device='cuda:0')  Sequence final error:  tensor(4.0035, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  3  Sequence mean error:  tensor(0.3414, device='cuda:0')  Sequence final error:  tensor(0.7543, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  4  Sequence mean error:  tensor(0.4207, device='cuda:0')  Sequence final error:  tensor(0.8086, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  5  Sequence mean error:  tensor(0.4252, device='cuda:0')  Sequence final error:  tensor(0.7017, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  1  Sequence mean error:  tensor(0.5905, device='cuda:0')  Sequence final error:  tensor(1.3205, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  2  Sequence mean error:  tensor(0.7186, device='cuda:0')  Sequence final error:  tensor(1.1898, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  3  Sequence mean error:  tensor(0.7147, device='cuda:0')  Sequence final error:  tensor(1.4448, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  4  Sequence mean error:  tensor(0.6447, device='cuda:0')  Sequence final error:  tensor(1.0744, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  5  Sequence mean error:  tensor(0.4831, device='cuda:0')  Sequence final error:  tensor(0.2531, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  1  Sequence mean error:  tensor(0.4660, device='cuda:0')  Sequence final error:  tensor(0.1888, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  2  Sequence mean error:  tensor(0.4900, device='cuda:0')  Sequence final error:  tensor(0.2851, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  3  Sequence mean error:  tensor(2.4482, device='cuda:0')  Sequence final error:  tensor(5.2249, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  4  Sequence mean error:  tensor(2.5663, device='cuda:0')  Sequence final error:  tensor(5.5441, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  5  Sequence mean error:  tensor(1.0183, device='cuda:0')  Sequence final error:  tensor(1.2906, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  1  Sequence mean error:  tensor(0.8784, device='cuda:0')  Sequence final error:  tensor(1.3581, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  2  Sequence mean error:  tensor(0.7467, device='cuda:0')  Sequence final error:  tensor(1.6253, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  3  Sequence mean error:  tensor(1.0177, device='cuda:0')  Sequence final error:  tensor(1.8019, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  4  Sequence mean error:  tensor(0.9360, device='cuda:0')  Sequence final error:  tensor(2.0190, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  5  Sequence mean error:  tensor(0.9737, device='cuda:0')  Sequence final error:  tensor(1.5610, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  1  Sequence mean error:  tensor(1.0224, device='cuda:0')  Sequence final error:  tensor(1.7116, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  2  Sequence mean error:  tensor(1.0134, device='cuda:0')  Sequence final error:  tensor(1.9853, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  3  Sequence mean error:  tensor(1.1012, device='cuda:0')  Sequence final error:  tensor(2.0962, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  4  Sequence mean error:  tensor(1.1805, device='cuda:0')  Sequence final error:  tensor(2.1475, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  5  Sequence mean error:  tensor(1.0951, device='cuda:0')  Sequence final error:  tensor(1.9551, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  1  Sequence mean error:  tensor(1.0174, device='cuda:0')  Sequence final error:  tensor(0.9566, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  2  Sequence mean error:  tensor(1.0607, device='cuda:0')  Sequence final error:  tensor(1.8616, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  3  Sequence mean error:  tensor(0.9754, device='cuda:0')  Sequence final error:  tensor(1.6686, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  4  Sequence mean error:  tensor(0.9263, device='cuda:0')  Sequence final error:  tensor(1.0895, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  5  Sequence mean error:  tensor(0.8667, device='cuda:0')  Sequence final error:  tensor(1.1754, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  1  Sequence mean error:  tensor(0.7582, device='cuda:0')  Sequence final error:  tensor(0.6107, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  2  Sequence mean error:  tensor(0.7200, device='cuda:0')  Sequence final error:  tensor(0.8618, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  3  Sequence mean error:  tensor(0.7103, device='cuda:0')  Sequence final error:  tensor(1.0182, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  4  Sequence mean error:  tensor(0.3345, device='cuda:0')  Sequence final error:  tensor(0.3435, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  5  Sequence mean error:  tensor(0.6713, device='cuda:0')  Sequence final error:  tensor(1.8122, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  1  Sequence mean error:  tensor(0.7784, device='cuda:0')  Sequence final error:  tensor(2.3607, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  2  Sequence mean error:  tensor(0.7635, device='cuda:0')  Sequence final error:  tensor(0.9127, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  3  Sequence mean error:  tensor(0.8019, device='cuda:0')  Sequence final error:  tensor(1.3200, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  4  Sequence mean error:  tensor(0.7359, device='cuda:0')  Sequence final error:  tensor(0.9365, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  5  Sequence mean error:  tensor(0.7753, device='cuda:0')  Sequence final error:  tensor(1.8056, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  1  Sequence mean error:  tensor(0.7821, device='cuda:0')  Sequence final error:  tensor(1.1963, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  2  Sequence mean error:  tensor(0.7889, device='cuda:0')  Sequence final error:  tensor(1.4483, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  3  Sequence mean error:  tensor(0.9103, device='cuda:0')  Sequence final error:  tensor(1.9598, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  4  Sequence mean error:  tensor(0.7308, device='cuda:0')  Sequence final error:  tensor(1.1822, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  5  Sequence mean error:  tensor(0.7708, device='cuda:0')  Sequence final error:  tensor(1.3474, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  1  Sequence mean error:  tensor(1.7512, device='cuda:0')  Sequence final error:  tensor(2.4807, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  2  Sequence mean error:  tensor(1.6725, device='cuda:0')  Sequence final error:  tensor(2.2539, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  3  Sequence mean error:  tensor(1.2958, device='cuda:0')  Sequence final error:  tensor(2.2827, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  4  Sequence mean error:  tensor(1.4254, device='cuda:0')  Sequence final error:  tensor(3.3857, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  5  Sequence mean error:  tensor(1.6932, device='cuda:0')  Sequence final error:  tensor(3.4578, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  1  Sequence mean error:  tensor(1.8237, device='cuda:0')  Sequence final error:  tensor(4.2586, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  2  Sequence mean error:  tensor(2.1209, device='cuda:0')  Sequence final error:  tensor(4.5863, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  3  Sequence mean error:  tensor(0.9727, device='cuda:0')  Sequence final error:  tensor(1.8633, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  4  Sequence mean error:  tensor(0.9028, device='cuda:0')  Sequence final error:  tensor(1.8628, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  5  Sequence mean error:  tensor(1.7211, device='cuda:0')  Sequence final error:  tensor(5.0797, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  1  Sequence mean error:  tensor(1.7815, device='cuda:0')  Sequence final error:  tensor(3.7473, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  2  Sequence mean error:  tensor(2.2241, device='cuda:0')  Sequence final error:  tensor(4.0135, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  3  Sequence mean error:  tensor(0.7360, device='cuda:0')  Sequence final error:  tensor(1.4330, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  4  Sequence mean error:  tensor(0.7047, device='cuda:0')  Sequence final error:  tensor(1.1265, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  5  Sequence mean error:  tensor(0.3819, device='cuda:0')  Sequence final error:  tensor(0.3582, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  1  Sequence mean error:  tensor(0.3856, device='cuda:0')  Sequence final error:  tensor(0.3192, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  2  Sequence mean error:  tensor(0.3944, device='cuda:0')  Sequence final error:  tensor(0.3335, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  3  Sequence mean error:  tensor(2.3683, device='cuda:0')  Sequence final error:  tensor(6.3163, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  4  Sequence mean error:  tensor(2.5701, device='cuda:0')  Sequence final error:  tensor(7.2114, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  5  Sequence mean error:  tensor(0.7554, device='cuda:0')  Sequence final error:  tensor(1.1797, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  1  Sequence mean error:  tensor(0.7519, device='cuda:0')  Sequence final error:  tensor(1.0170, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  2  Sequence mean error:  tensor(0.7186, device='cuda:0')  Sequence final error:  tensor(0.6935, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  3  Sequence mean error:  tensor(0.5719, device='cuda:0')  Sequence final error:  tensor(0.5407, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  4  Sequence mean error:  tensor(0.4881, device='cuda:0')  Sequence final error:  tensor(0.9034, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  5  Sequence mean error:  tensor(0.4636, device='cuda:0')  Sequence final error:  tensor(0.7287, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  1  Sequence mean error:  tensor(0.4945, device='cuda:0')  Sequence final error:  tensor(0.8123, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  2  Sequence mean error:  tensor(0.4954, device='cuda:0')  Sequence final error:  tensor(0.9673, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  3  Sequence mean error:  tensor(0.4698, device='cuda:0')  Sequence final error:  tensor(0.5618, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  4  Sequence mean error:  tensor(0.8854, device='cuda:0')  Sequence final error:  tensor(3.0756, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  5  Sequence mean error:  tensor(0.8947, device='cuda:0')  Sequence final error:  tensor(2.9634, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  1  Sequence mean error:  tensor(0.9400, device='cuda:0')  Sequence final error:  tensor(0.9546, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  2  Sequence mean error:  tensor(1.3734, device='cuda:0')  Sequence final error:  tensor(2.3663, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  3  Sequence mean error:  tensor(1.2661, device='cuda:0')  Sequence final error:  tensor(3.0931, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  4  Sequence mean error:  tensor(1.8418, device='cuda:0')  Sequence final error:  tensor(4.6066, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  5  Sequence mean error:  tensor(2.3036, device='cuda:0')  Sequence final error:  tensor(7.2689, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  1  Sequence mean error:  tensor(0.3244, device='cuda:0')  Sequence final error:  tensor(0.3556, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  2  Sequence mean error:  tensor(0.7066, device='cuda:0')  Sequence final error:  tensor(1.4979, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  3  Sequence mean error:  tensor(0.7579, device='cuda:0')  Sequence final error:  tensor(1.1811, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  4  Sequence mean error:  tensor(0.6370, device='cuda:0')  Sequence final error:  tensor(0.8986, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  5  Sequence mean error:  tensor(0.7988, device='cuda:0')  Sequence final error:  tensor(1.5509, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  1  Sequence mean error:  tensor(0.7539, device='cuda:0')  Sequence final error:  tensor(1.3109, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  2  Sequence mean error:  tensor(0.8057, device='cuda:0')  Sequence final error:  tensor(1.0138, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  3  Sequence mean error:  tensor(0.7695, device='cuda:0')  Sequence final error:  tensor(1.3566, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  4  Sequence mean error:  tensor(0.7734, device='cuda:0')  Sequence final error:  tensor(1.3209, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  5  Sequence mean error:  tensor(0.5971, device='cuda:0')  Sequence final error:  tensor(0.7295, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  1  Sequence mean error:  tensor(0.5947, device='cuda:0')  Sequence final error:  tensor(0.6985, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  2  Sequence mean error:  tensor(0.6240, device='cuda:0')  Sequence final error:  tensor(1.1649, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  3  Sequence mean error:  tensor(0.6801, device='cuda:0')  Sequence final error:  tensor(1.6001, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  4  Sequence mean error:  tensor(0.6248, device='cuda:0')  Sequence final error:  tensor(1.0388, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  5  Sequence mean error:  tensor(0.6733, device='cuda:0')  Sequence final error:  tensor(1.3731, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  1  Sequence mean error:  tensor(0.6283, device='cuda:0')  Sequence final error:  tensor(0.4646, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  2  Sequence mean error:  tensor(0.5365, device='cuda:0')  Sequence final error:  tensor(0.6540, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  3  Sequence mean error:  tensor(0.5963, device='cuda:0')  Sequence final error:  tensor(1.1450, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  4  Sequence mean error:  tensor(0.6858, device='cuda:0')  Sequence final error:  tensor(0.9799, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  5  Sequence mean error:  tensor(0.6706, device='cuda:0')  Sequence final error:  tensor(0.6524, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  1  Sequence mean error:  tensor(0.4992, device='cuda:0')  Sequence final error:  tensor(0.5120, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  2  Sequence mean error:  tensor(0.5331, device='cuda:0')  Sequence final error:  tensor(0.5317, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  3  Sequence mean error:  tensor(0.5736, device='cuda:0')  Sequence final error:  tensor(1.2306, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  4  Sequence mean error:  tensor(0.6657, device='cuda:0')  Sequence final error:  tensor(1.5143, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  5  Sequence mean error:  tensor(0.5847, device='cuda:0')  Sequence final error:  tensor(0.7485, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  1  Sequence mean error:  tensor(0.7979, device='cuda:0')  Sequence final error:  tensor(1.8301, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  2  Sequence mean error:  tensor(0.6571, device='cuda:0')  Sequence final error:  tensor(1.2710, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  3  Sequence mean error:  tensor(0.5518, device='cuda:0')  Sequence final error:  tensor(0.6578, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  4  Sequence mean error:  tensor(0.5653, device='cuda:0')  Sequence final error:  tensor(0.5061, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  5  Sequence mean error:  tensor(0.4759, device='cuda:0')  Sequence final error:  tensor(0.6244, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  1  Sequence mean error:  tensor(0.6931, device='cuda:0')  Sequence final error:  tensor(1.9477, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  2  Sequence mean error:  tensor(0.6842, device='cuda:0')  Sequence final error:  tensor(2.6782, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  3  Sequence mean error:  tensor(1.4629, device='cuda:0')  Sequence final error:  tensor(2.6863, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  4  Sequence mean error:  tensor(2.1341, device='cuda:0')  Sequence final error:  tensor(4.2899, device='cuda:0')  time:  0.28499841690063477
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  5  Sequence mean error:  tensor(2.2762, device='cuda:0')  Sequence final error:  tensor(4.6261, device='cuda:0')  time:  0.28499841690063477
+(epoch 28), valid_loss = 2.975, valid_mean_err = 0.871, valid_final_err = 1.695
+Best epoch 14 Best validation loss 2.1276671483759477 Best error epoch 16 Best error tensor(1.2527, device='cuda:0')
+Saving model
+****************Training epoch beginning******************
+--------------------------------------------------------------------------
+Dataset type switching: validation -----> training
+Loading train or test dataset:  ./data/train/trajectories_train.cpkl
+Sequence size(frame) ------> 20
+One batch size (frame)--->- 100
+Training data from training dataset(name, # frame, #sequence)-->  biwi_hotel.txt : 2900 : 145
+Validation data from training dataset(name, # frame, #sequence)-->  biwi_hotel.txt : 0 : 0
+Training data from training dataset(name, # frame, #sequence)-->  biwi_hotel_0.txt : 2900 : 145
+Validation data from training dataset(name, # frame, #sequence)-->  biwi_hotel_0.txt : 0 : 0
+Total number of training batches: 58
+Total number of validation batches: 0
+1682/1740 (epoch 29), train_loss = -3.036, time/batch = 0.308
+1683/1740 (epoch 29), train_loss = -3.788, time/batch = 0.313
+1684/1740 (epoch 29), train_loss = -2.559, time/batch = 0.242
+1685/1740 (epoch 29), train_loss = -1.665, time/batch = 0.320
+1686/1740 (epoch 29), train_loss = -2.721, time/batch = 0.455
+1687/1740 (epoch 29), train_loss = -1.763, time/batch = 0.395
+1688/1740 (epoch 29), train_loss = -1.745, time/batch = 0.363
+1689/1740 (epoch 29), train_loss = -2.298, time/batch = 0.470
+1690/1740 (epoch 29), train_loss = -0.844, time/batch = 0.361
+1691/1740 (epoch 29), train_loss = -1.393, time/batch = 0.559
+1692/1740 (epoch 29), train_loss = -1.064, time/batch = 0.686
+1693/1740 (epoch 29), train_loss = -1.376, time/batch = 0.661
+1694/1740 (epoch 29), train_loss = -1.952, time/batch = 0.460
+1695/1740 (epoch 29), train_loss = -1.023, time/batch = 0.468
+1696/1740 (epoch 29), train_loss = -1.194, time/batch = 0.420
+1697/1740 (epoch 29), train_loss = -0.193, time/batch = 0.289
+1698/1740 (epoch 29), train_loss = -0.881, time/batch = 0.281
+1699/1740 (epoch 29), train_loss = -1.130, time/batch = 0.338
+1700/1740 (epoch 29), train_loss = -1.097, time/batch = 0.353
+1701/1740 (epoch 29), train_loss = -2.489, time/batch = 0.492
+1702/1740 (epoch 29), train_loss = -2.787, time/batch = 0.573
+1703/1740 (epoch 29), train_loss = 0.362, time/batch = 0.296
+1704/1740 (epoch 29), train_loss = -2.010, time/batch = 0.455
+1705/1740 (epoch 29), train_loss = -1.957, time/batch = 0.617
+1706/1740 (epoch 29), train_loss = -2.094, time/batch = 0.649
+1707/1740 (epoch 29), train_loss = -2.007, time/batch = 0.660
+1708/1740 (epoch 29), train_loss = -2.126, time/batch = 0.598
+1709/1740 (epoch 29), train_loss = -2.042, time/batch = 0.518
+1710/1740 (epoch 29), train_loss = -0.725, time/batch = 0.324
+*******************
+now processing: biwi_hotel_0.txt
+1711/1740 (epoch 29), train_loss = -2.216, time/batch = 0.303
+1712/1740 (epoch 29), train_loss = -2.594, time/batch = 0.347
+1713/1740 (epoch 29), train_loss = -1.543, time/batch = 0.262
+1714/1740 (epoch 29), train_loss = -1.172, time/batch = 0.366
+1715/1740 (epoch 29), train_loss = -1.426, time/batch = 0.425
+1716/1740 (epoch 29), train_loss = -1.002, time/batch = 0.463
+1717/1740 (epoch 29), train_loss = -0.722, time/batch = 0.357
+1718/1740 (epoch 29), train_loss = -1.528, time/batch = 0.489
+1719/1740 (epoch 29), train_loss = -0.460, time/batch = 0.371
+1720/1740 (epoch 29), train_loss = -0.647, time/batch = 0.571
+1721/1740 (epoch 29), train_loss = -0.620, time/batch = 0.683
+1722/1740 (epoch 29), train_loss = -0.827, time/batch = 0.681
+1723/1740 (epoch 29), train_loss = -1.451, time/batch = 0.480
+1724/1740 (epoch 29), train_loss = -0.628, time/batch = 0.421
+1725/1740 (epoch 29), train_loss = -0.718, time/batch = 0.426
+1726/1740 (epoch 29), train_loss = 0.159, time/batch = 0.316
+1727/1740 (epoch 29), train_loss = -0.303, time/batch = 0.280
+1728/1740 (epoch 29), train_loss = -0.459, time/batch = 0.341
+1729/1740 (epoch 29), train_loss = -0.714, time/batch = 0.395
+1730/1740 (epoch 29), train_loss = -1.616, time/batch = 0.498
+1731/1740 (epoch 29), train_loss = -1.760, time/batch = 0.529
+1732/1740 (epoch 29), train_loss = 0.387, time/batch = 0.317
+1733/1740 (epoch 29), train_loss = -1.269, time/batch = 0.495
+1734/1740 (epoch 29), train_loss = -1.307, time/batch = 0.633
+1735/1740 (epoch 29), train_loss = -1.392, time/batch = 0.693
+1736/1740 (epoch 29), train_loss = -1.659, time/batch = 0.684
+1737/1740 (epoch 29), train_loss = -1.685, time/batch = 0.610
+1738/1740 (epoch 29), train_loss = -1.668, time/batch = 0.521
+1739/1740 (epoch 29), train_loss = 0.043, time/batch = 0.381
+--------------------------------------------------------------------------
+Dataset type switching: training ----> validation
+Loading validaton datasets:  ./data/validation/trajectories_val.cpkl
+Sequence size(frame) ------> 20
+One batch size (frame)--->- 100
+Validation data from validation dataset(name, # frame, #sequence)-->  biwi_hotel_4.txt : 2900 : 145
+Total number of validation batches: 29
+****************Validation with dataset epoch beginning******************
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  1  Sequence mean error:  tensor(0.1609, device='cuda:0')  Sequence final error:  tensor(0.1529, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  2  Sequence mean error:  tensor(0.1693, device='cuda:0')  Sequence final error:  tensor(0.1934, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  3  Sequence mean error:  tensor(0.1687, device='cuda:0')  Sequence final error:  tensor(0.2400, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  4  Sequence mean error:  tensor(0.5427, device='cuda:0')  Sequence final error:  tensor(0.8481, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  1  Sequence:  5  Sequence mean error:  tensor(0.5744, device='cuda:0')  Sequence final error:  tensor(0.5961, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  1  Sequence mean error:  tensor(0.7495, device='cuda:0')  Sequence final error:  tensor(1.8254, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  2  Sequence mean error:  tensor(0.2166, device='cuda:0')  Sequence final error:  tensor(0.0764, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  3  Sequence mean error:  tensor(0.2069, device='cuda:0')  Sequence final error:  tensor(0.1329, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  4  Sequence mean error:  tensor(0.2105, device='cuda:0')  Sequence final error:  tensor(0.1614, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  2  Sequence:  5  Sequence mean error:  tensor(0.2040, device='cuda:0')  Sequence final error:  tensor(0.0946, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  1  Sequence mean error:  tensor(0.1727, device='cuda:0')  Sequence final error:  tensor(0.0842, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  2  Sequence mean error:  tensor(0.1554, device='cuda:0')  Sequence final error:  tensor(0.2764, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  3  Sequence mean error:  tensor(0.2325, device='cuda:0')  Sequence final error:  tensor(0.4129, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  4  Sequence mean error:  tensor(2.0387, device='cuda:0')  Sequence final error:  tensor(4.1754, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  3  Sequence:  5  Sequence mean error:  tensor(1.9935, device='cuda:0')  Sequence final error:  tensor(5.1391, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  1  Sequence mean error:  tensor(1.9764, device='cuda:0')  Sequence final error:  tensor(4.2360, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  2  Sequence mean error:  tensor(0.5408, device='cuda:0')  Sequence final error:  tensor(0.9065, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  3  Sequence mean error:  tensor(0.5770, device='cuda:0')  Sequence final error:  tensor(1.1963, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  4  Sequence mean error:  tensor(0.5327, device='cuda:0')  Sequence final error:  tensor(1.0056, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  4  Sequence:  5  Sequence mean error:  tensor(0.5236, device='cuda:0')  Sequence final error:  tensor(1.0642, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  1  Sequence mean error:  tensor(0.3445, device='cuda:0')  Sequence final error:  tensor(0.6819, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  2  Sequence mean error:  tensor(0.3451, device='cuda:0')  Sequence final error:  tensor(0.7392, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  3  Sequence mean error:  tensor(0.3082, device='cuda:0')  Sequence final error:  tensor(0.4662, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  4  Sequence mean error:  tensor(0.3519, device='cuda:0')  Sequence final error:  tensor(0.7813, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  5  Sequence:  5  Sequence mean error:  tensor(0.6006, device='cuda:0')  Sequence final error:  tensor(1.2735, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  1  Sequence mean error:  tensor(0.5231, device='cuda:0')  Sequence final error:  tensor(0.6625, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  2  Sequence mean error:  tensor(0.5543, device='cuda:0')  Sequence final error:  tensor(1.1850, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  3  Sequence mean error:  tensor(0.5051, device='cuda:0')  Sequence final error:  tensor(0.4041, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  4  Sequence mean error:  tensor(0.5326, device='cuda:0')  Sequence final error:  tensor(0.7521, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  6  Sequence:  5  Sequence mean error:  tensor(1.7674, device='cuda:0')  Sequence final error:  tensor(6.6122, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  1  Sequence mean error:  tensor(1.5193, device='cuda:0')  Sequence final error:  tensor(3.1809, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  2  Sequence mean error:  tensor(1.5925, device='cuda:0')  Sequence final error:  tensor(4.2036, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  3  Sequence mean error:  tensor(0.2868, device='cuda:0')  Sequence final error:  tensor(0.4931, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  4  Sequence mean error:  tensor(0.4271, device='cuda:0')  Sequence final error:  tensor(0.8637, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  7  Sequence:  5  Sequence mean error:  tensor(0.4574, device='cuda:0')  Sequence final error:  tensor(0.8805, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  1  Sequence mean error:  tensor(0.7087, device='cuda:0')  Sequence final error:  tensor(1.8215, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  2  Sequence mean error:  tensor(0.7037, device='cuda:0')  Sequence final error:  tensor(1.8065, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  3  Sequence mean error:  tensor(0.7221, device='cuda:0')  Sequence final error:  tensor(1.4321, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  4  Sequence mean error:  tensor(0.6210, device='cuda:0')  Sequence final error:  tensor(0.9532, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  8  Sequence:  5  Sequence mean error:  tensor(0.4897, device='cuda:0')  Sequence final error:  tensor(0.2049, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  1  Sequence mean error:  tensor(0.5105, device='cuda:0')  Sequence final error:  tensor(0.2328, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  2  Sequence mean error:  tensor(0.4510, device='cuda:0')  Sequence final error:  tensor(0.2688, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  3  Sequence mean error:  tensor(2.4300, device='cuda:0')  Sequence final error:  tensor(7.4097, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  4  Sequence mean error:  tensor(2.4141, device='cuda:0')  Sequence final error:  tensor(5.8433, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  9  Sequence:  5  Sequence mean error:  tensor(0.9050, device='cuda:0')  Sequence final error:  tensor(1.6145, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  1  Sequence mean error:  tensor(0.8450, device='cuda:0')  Sequence final error:  tensor(1.4378, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  2  Sequence mean error:  tensor(0.7990, device='cuda:0')  Sequence final error:  tensor(1.5326, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  3  Sequence mean error:  tensor(0.9507, device='cuda:0')  Sequence final error:  tensor(1.9245, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  4  Sequence mean error:  tensor(0.9819, device='cuda:0')  Sequence final error:  tensor(1.8568, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  10  Sequence:  5  Sequence mean error:  tensor(0.9995, device='cuda:0')  Sequence final error:  tensor(1.3681, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  1  Sequence mean error:  tensor(0.9863, device='cuda:0')  Sequence final error:  tensor(1.2680, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  2  Sequence mean error:  tensor(1.0022, device='cuda:0')  Sequence final error:  tensor(1.6312, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  3  Sequence mean error:  tensor(1.0390, device='cuda:0')  Sequence final error:  tensor(2.0281, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  4  Sequence mean error:  tensor(1.1436, device='cuda:0')  Sequence final error:  tensor(2.2758, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  11  Sequence:  5  Sequence mean error:  tensor(1.1240, device='cuda:0')  Sequence final error:  tensor(2.1735, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  1  Sequence mean error:  tensor(1.0141, device='cuda:0')  Sequence final error:  tensor(1.0380, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  2  Sequence mean error:  tensor(0.9958, device='cuda:0')  Sequence final error:  tensor(1.4900, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  3  Sequence mean error:  tensor(1.0271, device='cuda:0')  Sequence final error:  tensor(1.5505, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  4  Sequence mean error:  tensor(0.9253, device='cuda:0')  Sequence final error:  tensor(1.2887, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  12  Sequence:  5  Sequence mean error:  tensor(0.8302, device='cuda:0')  Sequence final error:  tensor(1.1367, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  1  Sequence mean error:  tensor(0.7494, device='cuda:0')  Sequence final error:  tensor(0.8211, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  2  Sequence mean error:  tensor(0.7549, device='cuda:0')  Sequence final error:  tensor(0.8080, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  3  Sequence mean error:  tensor(0.7967, device='cuda:0')  Sequence final error:  tensor(2.1416, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  4  Sequence mean error:  tensor(0.3212, device='cuda:0')  Sequence final error:  tensor(0.2801, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  13  Sequence:  5  Sequence mean error:  tensor(0.7435, device='cuda:0')  Sequence final error:  tensor(1.5173, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  1  Sequence mean error:  tensor(0.6961, device='cuda:0')  Sequence final error:  tensor(1.9058, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  2  Sequence mean error:  tensor(0.8471, device='cuda:0')  Sequence final error:  tensor(0.9630, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  3  Sequence mean error:  tensor(0.7201, device='cuda:0')  Sequence final error:  tensor(0.8091, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  4  Sequence mean error:  tensor(0.7813, device='cuda:0')  Sequence final error:  tensor(1.1598, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  14  Sequence:  5  Sequence mean error:  tensor(0.8229, device='cuda:0')  Sequence final error:  tensor(2.1163, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  1  Sequence mean error:  tensor(0.8644, device='cuda:0')  Sequence final error:  tensor(1.5541, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  2  Sequence mean error:  tensor(0.8077, device='cuda:0')  Sequence final error:  tensor(1.6748, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  3  Sequence mean error:  tensor(0.8509, device='cuda:0')  Sequence final error:  tensor(1.4727, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  4  Sequence mean error:  tensor(0.7753, device='cuda:0')  Sequence final error:  tensor(1.2752, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  15  Sequence:  5  Sequence mean error:  tensor(0.8446, device='cuda:0')  Sequence final error:  tensor(1.5769, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  1  Sequence mean error:  tensor(1.9298, device='cuda:0')  Sequence final error:  tensor(3.5757, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  2  Sequence mean error:  tensor(1.8825, device='cuda:0')  Sequence final error:  tensor(2.1380, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  3  Sequence mean error:  tensor(1.1537, device='cuda:0')  Sequence final error:  tensor(2.4629, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  4  Sequence mean error:  tensor(1.4434, device='cuda:0')  Sequence final error:  tensor(3.4553, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  16  Sequence:  5  Sequence mean error:  tensor(1.7858, device='cuda:0')  Sequence final error:  tensor(3.7445, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  1  Sequence mean error:  tensor(2.0039, device='cuda:0')  Sequence final error:  tensor(3.9120, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  2  Sequence mean error:  tensor(1.9189, device='cuda:0')  Sequence final error:  tensor(5.8533, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  3  Sequence mean error:  tensor(0.8155, device='cuda:0')  Sequence final error:  tensor(2.4508, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  4  Sequence mean error:  tensor(1.0755, device='cuda:0')  Sequence final error:  tensor(2.2205, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  17  Sequence:  5  Sequence mean error:  tensor(1.9040, device='cuda:0')  Sequence final error:  tensor(4.7295, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  1  Sequence mean error:  tensor(1.9934, device='cuda:0')  Sequence final error:  tensor(4.8489, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  2  Sequence mean error:  tensor(2.0345, device='cuda:0')  Sequence final error:  tensor(3.9092, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  3  Sequence mean error:  tensor(0.6935, device='cuda:0')  Sequence final error:  tensor(0.9309, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  4  Sequence mean error:  tensor(0.6755, device='cuda:0')  Sequence final error:  tensor(1.2635, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  18  Sequence:  5  Sequence mean error:  tensor(0.4255, device='cuda:0')  Sequence final error:  tensor(0.3463, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  1  Sequence mean error:  tensor(0.4392, device='cuda:0')  Sequence final error:  tensor(0.3804, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  2  Sequence mean error:  tensor(0.3804, device='cuda:0')  Sequence final error:  tensor(0.3624, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  3  Sequence mean error:  tensor(2.4409, device='cuda:0')  Sequence final error:  tensor(7.3122, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  4  Sequence mean error:  tensor(2.4395, device='cuda:0')  Sequence final error:  tensor(6.1697, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  19  Sequence:  5  Sequence mean error:  tensor(0.6731, device='cuda:0')  Sequence final error:  tensor(1.2019, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  1  Sequence mean error:  tensor(0.7560, device='cuda:0')  Sequence final error:  tensor(0.9430, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  2  Sequence mean error:  tensor(0.7368, device='cuda:0')  Sequence final error:  tensor(0.8223, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  3  Sequence mean error:  tensor(0.5477, device='cuda:0')  Sequence final error:  tensor(0.5586, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  4  Sequence mean error:  tensor(0.4771, device='cuda:0')  Sequence final error:  tensor(0.6473, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  20  Sequence:  5  Sequence mean error:  tensor(0.4539, device='cuda:0')  Sequence final error:  tensor(1.1454, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  1  Sequence mean error:  tensor(0.4659, device='cuda:0')  Sequence final error:  tensor(0.7143, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  2  Sequence mean error:  tensor(0.4579, device='cuda:0')  Sequence final error:  tensor(1.0890, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  3  Sequence mean error:  tensor(0.4641, device='cuda:0')  Sequence final error:  tensor(0.8616, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  4  Sequence mean error:  tensor(0.9874, device='cuda:0')  Sequence final error:  tensor(3.0090, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  21  Sequence:  5  Sequence mean error:  tensor(1.0263, device='cuda:0')  Sequence final error:  tensor(3.5418, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  1  Sequence mean error:  tensor(0.8401, device='cuda:0')  Sequence final error:  tensor(0.4801, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  2  Sequence mean error:  tensor(1.2547, device='cuda:0')  Sequence final error:  tensor(2.3131, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  3  Sequence mean error:  tensor(1.2733, device='cuda:0')  Sequence final error:  tensor(2.2728, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  4  Sequence mean error:  tensor(1.8332, device='cuda:0')  Sequence final error:  tensor(3.7806, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  22  Sequence:  5  Sequence mean error:  tensor(2.1618, device='cuda:0')  Sequence final error:  tensor(6.1669, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  1  Sequence mean error:  tensor(0.3120, device='cuda:0')  Sequence final error:  tensor(0.4450, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  2  Sequence mean error:  tensor(0.7091, device='cuda:0')  Sequence final error:  tensor(1.4964, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  3  Sequence mean error:  tensor(0.7916, device='cuda:0')  Sequence final error:  tensor(1.2912, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  4  Sequence mean error:  tensor(0.6580, device='cuda:0')  Sequence final error:  tensor(0.8533, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  23  Sequence:  5  Sequence mean error:  tensor(0.7668, device='cuda:0')  Sequence final error:  tensor(1.5631, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  1  Sequence mean error:  tensor(0.7879, device='cuda:0')  Sequence final error:  tensor(1.5727, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  2  Sequence mean error:  tensor(0.7664, device='cuda:0')  Sequence final error:  tensor(0.8312, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  3  Sequence mean error:  tensor(0.7408, device='cuda:0')  Sequence final error:  tensor(1.2544, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  4  Sequence mean error:  tensor(0.7569, device='cuda:0')  Sequence final error:  tensor(1.3170, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  24  Sequence:  5  Sequence mean error:  tensor(0.6076, device='cuda:0')  Sequence final error:  tensor(0.9286, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  1  Sequence mean error:  tensor(0.6075, device='cuda:0')  Sequence final error:  tensor(0.7774, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  2  Sequence mean error:  tensor(0.6286, device='cuda:0')  Sequence final error:  tensor(1.0891, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  3  Sequence mean error:  tensor(0.6797, device='cuda:0')  Sequence final error:  tensor(1.4401, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  4  Sequence mean error:  tensor(0.6417, device='cuda:0')  Sequence final error:  tensor(1.1801, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  25  Sequence:  5  Sequence mean error:  tensor(0.6740, device='cuda:0')  Sequence final error:  tensor(1.3276, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  1  Sequence mean error:  tensor(0.6595, device='cuda:0')  Sequence final error:  tensor(0.5341, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  2  Sequence mean error:  tensor(0.5282, device='cuda:0')  Sequence final error:  tensor(0.8220, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  3  Sequence mean error:  tensor(0.6069, device='cuda:0')  Sequence final error:  tensor(0.9000, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  4  Sequence mean error:  tensor(0.5834, device='cuda:0')  Sequence final error:  tensor(0.5410, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  26  Sequence:  5  Sequence mean error:  tensor(0.6096, device='cuda:0')  Sequence final error:  tensor(0.9740, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  1  Sequence mean error:  tensor(0.5267, device='cuda:0')  Sequence final error:  tensor(0.6181, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  2  Sequence mean error:  tensor(0.5420, device='cuda:0')  Sequence final error:  tensor(0.6682, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  3  Sequence mean error:  tensor(0.5346, device='cuda:0')  Sequence final error:  tensor(0.9837, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  4  Sequence mean error:  tensor(0.6335, device='cuda:0')  Sequence final error:  tensor(1.2595, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  27  Sequence:  5  Sequence mean error:  tensor(0.5886, device='cuda:0')  Sequence final error:  tensor(0.5326, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  1  Sequence mean error:  tensor(0.7128, device='cuda:0')  Sequence final error:  tensor(1.9827, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  2  Sequence mean error:  tensor(0.7198, device='cuda:0')  Sequence final error:  tensor(1.2267, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  3  Sequence mean error:  tensor(0.5316, device='cuda:0')  Sequence final error:  tensor(0.5246, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  4  Sequence mean error:  tensor(0.5683, device='cuda:0')  Sequence final error:  tensor(0.6909, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  28  Sequence:  5  Sequence mean error:  tensor(0.5349, device='cuda:0')  Sequence final error:  tensor(0.9261, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  1  Sequence mean error:  tensor(0.5753, device='cuda:0')  Sequence final error:  tensor(0.7741, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  2  Sequence mean error:  tensor(0.6170, device='cuda:0')  Sequence final error:  tensor(0.5008, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  3  Sequence mean error:  tensor(1.2959, device='cuda:0')  Sequence final error:  tensor(2.7816, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  4  Sequence mean error:  tensor(1.9678, device='cuda:0')  Sequence final error:  tensor(4.5653, device='cuda:0')  time:  0.3813755512237549
+Current file :  biwi_hotel_4.txt  Batch :  29  Sequence:  5  Sequence mean error:  tensor(2.1799, device='cuda:0')  Sequence final error:  tensor(4.1015, device='cuda:0')  time:  0.3813755512237549
+(epoch 29), valid_loss = 2.717, valid_mean_err = 0.866, valid_final_err = 1.687
+Best epoch 14 Best validation loss 2.1276671483759477 Best error epoch 16 Best error tensor(1.2527, device='cuda:0')
+Saving model
+Best epoch acording to validation dataset 14 Best validation Loss 2.1276671483759477 Best error epoch 16 Best error tensor(1.2527, device='cuda:0')
+--------------------------------------------------------------------------
+Dataset type switching: training ----> validation
+Writing to plot file  path: plot/SOCIALLSTM/LSTM/validation, file_name: biwi_hotel_4.pkl

@@ -1,0 +1,59 @@
+Training epoch: 0 loss: 1.5438642395034048
+Training epoch: 1 loss: -0.04975383290378697
+Validation dataset epoch: 1 loss: 2.8984009209891846 mean_err: tensor(1.0742, device='cuda:0')final_err: tensor(2.2309, device='cuda:0')
+Training epoch: 2 loss: -0.39586650565033793
+Validation dataset epoch: 2 loss: 2.5689332430347283 mean_err: tensor(0.9920, device='cuda:0')final_err: tensor(2.0653, device='cuda:0')
+Training epoch: 3 loss: -0.639089288303211
+Validation dataset epoch: 3 loss: 2.565596620340286 mean_err: tensor(0.9531, device='cuda:0')final_err: tensor(1.9440, device='cuda:0')
+Training epoch: 4 loss: -0.7790129719077258
+Validation dataset epoch: 4 loss: 2.4647247634185794 mean_err: tensor(0.9236, device='cuda:0')final_err: tensor(1.8144, device='cuda:0')
+Training epoch: 5 loss: -0.9257950706792802
+Validation dataset epoch: 5 loss: 2.911758167938939 mean_err: tensor(0.9306, device='cuda:0')final_err: tensor(1.8538, device='cuda:0')
+Training epoch: 6 loss: -0.9882922895124245
+Validation dataset epoch: 6 loss: 2.2636471406781467 mean_err: tensor(0.9016, device='cuda:0')final_err: tensor(1.8001, device='cuda:0')
+Training epoch: 7 loss: -1.0702739556769614
+Validation dataset epoch: 7 loss: 2.4011591898955817 mean_err: tensor(0.9040, device='cuda:0')final_err: tensor(1.8025, device='cuda:0')
+Training epoch: 8 loss: -1.122210712480391
+Validation dataset epoch: 8 loss: 2.310622196361937 mean_err: tensor(0.8873, device='cuda:0')final_err: tensor(1.7350, device='cuda:0')
+Training epoch: 9 loss: -1.1877942726016042
+Validation dataset epoch: 9 loss: 2.5593815212619724 mean_err: tensor(0.8744, device='cuda:0')final_err: tensor(1.7328, device='cuda:0')
+Training epoch: 10 loss: -1.2170108723959983
+Validation dataset epoch: 10 loss: 2.6014791626611666 mean_err: tensor(0.8730, device='cuda:0')final_err: tensor(1.7697, device='cuda:0')
+Training epoch: 11 loss: -1.2740187355413517
+Validation dataset epoch: 11 loss: 2.5512145319311275 mean_err: tensor(0.8670, device='cuda:0')final_err: tensor(1.7377, device='cuda:0')
+Training epoch: 12 loss: -1.2238563776016238
+Validation dataset epoch: 12 loss: 2.458435559992132 mean_err: tensor(0.8681, device='cuda:0')final_err: tensor(1.6999, device='cuda:0')
+Training epoch: 13 loss: -1.271000480931252
+Validation dataset epoch: 13 loss: 2.6743385561067483 mean_err: tensor(0.8745, device='cuda:0')final_err: tensor(1.6989, device='cuda:0')
+Training epoch: 14 loss: -1.294637919853217
+Validation dataset epoch: 14 loss: 2.1276671483759477 mean_err: tensor(0.8508, device='cuda:0')final_err: tensor(1.6730, device='cuda:0')
+Training epoch: 15 loss: -1.3449951392052506
+Validation dataset epoch: 15 loss: 2.5279104090456306 mean_err: tensor(0.8520, device='cuda:0')final_err: tensor(1.7075, device='cuda:0')
+Training epoch: 16 loss: -1.3474921863526108
+Validation dataset epoch: 16 loss: 2.570815255364468 mean_err: tensor(0.8528, device='cuda:0')final_err: tensor(1.6526, device='cuda:0')
+Training epoch: 17 loss: -1.3686439184150827
+Validation dataset epoch: 17 loss: 2.698204572113424 mean_err: tensor(0.8583, device='cuda:0')final_err: tensor(1.7378, device='cuda:0')
+Training epoch: 18 loss: -1.340095065730014
+Validation dataset epoch: 18 loss: 2.8804508537054057 mean_err: tensor(0.8685, device='cuda:0')final_err: tensor(1.7174, device='cuda:0')
+Training epoch: 19 loss: -1.3803964759608538
+Validation dataset epoch: 19 loss: 2.860375877765232 mean_err: tensor(0.8702, device='cuda:0')final_err: tensor(1.6988, device='cuda:0')
+Training epoch: 20 loss: -1.3401088046712861
+Validation dataset epoch: 20 loss: 2.6913267221366026 mean_err: tensor(0.8620, device='cuda:0')final_err: tensor(1.7616, device='cuda:0')
+Training epoch: 21 loss: -1.3611935525289576
+Validation dataset epoch: 21 loss: 2.809814139879469 mean_err: tensor(0.8595, device='cuda:0')final_err: tensor(1.7094, device='cuda:0')
+Training epoch: 22 loss: -1.3635585032495798
+Validation dataset epoch: 22 loss: 2.929808695665722 mean_err: tensor(0.8616, device='cuda:0')final_err: tensor(1.6859, device='cuda:0')
+Training epoch: 23 loss: -1.3486298583191014
+Validation dataset epoch: 23 loss: 2.816287457441976 mean_err: tensor(0.8610, device='cuda:0')final_err: tensor(1.7320, device='cuda:0')
+Training epoch: 24 loss: -1.3792206368890816
+Validation dataset epoch: 24 loss: 2.9309617709496925 mean_err: tensor(0.8730, device='cuda:0')final_err: tensor(1.7192, device='cuda:0')
+Training epoch: 25 loss: -1.3932506771404936
+Validation dataset epoch: 25 loss: 2.64549258203599 mean_err: tensor(0.8557, device='cuda:0')final_err: tensor(1.6671, device='cuda:0')
+Training epoch: 26 loss: -1.3969247497248884
+Validation dataset epoch: 26 loss: 2.6954138786114488 mean_err: tensor(0.8646, device='cuda:0')final_err: tensor(1.7258, device='cuda:0')
+Training epoch: 27 loss: -1.363302887507297
+Validation dataset epoch: 27 loss: 2.7465460576502414 mean_err: tensor(0.8595, device='cuda:0')final_err: tensor(1.6834, device='cuda:0')
+Training epoch: 28 loss: -1.360887400198985
+Validation dataset epoch: 28 loss: 2.9748713931149067 mean_err: tensor(0.8706, device='cuda:0')final_err: tensor(1.6954, device='cuda:0')
+Training epoch: 29 loss: -1.3860902130475328
+Validation dataset epoch: 29 loss: 2.717282762282111 mean_err: tensor(0.8658, device='cuda:0')final_err: tensor(1.6865, device='cuda:0')
